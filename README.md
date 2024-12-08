@@ -15,7 +15,8 @@ Prepare the lists from each linear equations and assign in np.array()
 Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 
 ### Step 4:
-End the prograM
+End the program
+
 ## Program:
 import numpy as np
 
