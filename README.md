@@ -18,8 +18,11 @@ Using the np.linalg.matrix_rank(), we can find the rank of the given matrix.
 End the prograM
 ## Program:
 import numpy as np
+
 a=np.array([[5,-3,-10],[2,2,-3],[-3,-1,5]])
+
 s=np.linalg.matrix_rank(a)
+
 print(s)
 ## Output:
 ![image](https://github.com/user-attachments/assets/e81d2a3e-e89c-41b8-a5a0-4a8ff72a1dea)
